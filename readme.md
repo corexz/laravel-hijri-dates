@@ -5,7 +5,7 @@
 ### Composer
 
 ```bash
-	composer require geniusts/laravel-hijri-dates
+	composer require corexz/laravel-hijri-dates
 ```
 
 ### Service Provider
